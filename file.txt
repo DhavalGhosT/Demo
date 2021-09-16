@@ -3,3 +3,5 @@ Changes made online on GitHub
 This is a new feature for release
     New Feature!!!
 -----------------------------------
+This is a quick hotfix for the new feature
+    HOTFIX!
