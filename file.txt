@@ -5,3 +5,6 @@ This is a new feature for release
 -----------------------------------
 This is a quick hotfix for the new feature
     HOTFIX!
+-----------------------------------
+New Feature 2
+    Added! Done
