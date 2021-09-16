@@ -8,3 +8,5 @@ This is a quick hotfix for the new feature
 -----------------------------------
 New Feature 2
     Added! Done
+    Refactor the code
+    Some more lines
