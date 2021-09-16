@@ -1,2 +1,5 @@
 This is a new file
 Changes made online on GitHub
+This is a new feature for release
+    New Feature!!!
+-----------------------------------
